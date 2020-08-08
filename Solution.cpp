@@ -6,8 +6,8 @@ class Solution{
     
 private:
 
-    //string of sequence of brackets
-    string sequence;
+    	//string of sequence of brackets
+    	string sequence;
     
 	//private method of class for checking if given bracket is opening bracket
 	bool isOpeningBracket(char bracket){
